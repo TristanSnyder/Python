@@ -4,8 +4,7 @@
 
 Welcome! I'm **Tristan C. Snyder**, a U.S. Navy veteran and data analyst passionate about using analytics to drive strategic decision-making. With experience in **consulting, defense, and financial markets**, I specialize in **data analysis, machine learning, and business intelligence**. 
 
-I am currently pursuing my **Master of Science in Business Analytics (MSBA) at the University of Virginia (Darden School of Business)**, aiming to transition into **fintech as a data analyst**.
-
+I am currently pursuing my **Master of Science in Business Analytics (MSBA) at the University of Virginia (Darden School of Business)**.
 ---
 
 ## 📌 Professional Background
