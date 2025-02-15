@@ -28,7 +28,3 @@ I am currently pursuing my **Master of Science in Business Analytics (MSBA) at t
 
 📧 Email: [tristsnyder@gmail.com](mailto:tristsnyder@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/tristan-snyder1](http://www.linkedin.com/in/tristan-snyder1)  
-
----
-
-Let me know if you'd like any modifications! 
