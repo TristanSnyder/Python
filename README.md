@@ -10,7 +10,7 @@ I am currently pursuing my **Master of Science in Business Analytics (MSBA) at t
 ## 📌 Professional Background
 
 - **Business Analyst (Independent Consultant)** – Developed interactive **Tableau dashboards** and automated **SQL/Snowflake** data pipelines for marketing analytics.
-- **Program Analyst (Systems Planning and Analysis, Inc.)** – Led **data visualization** and reporting for national security programs.
+- **Program Analyst (Systems Planning and Analysis, Inc.)** – Supported the **National Reconnaissance Office (NRO) Communications Directorate**, led efforts to **streamline governance processes**, improve operational efficiency, and enhance **data collection, analysis, and reporting methods** for executive decision-making.
 - **Strategic Operations Manager (U.S. Navy, National Reconnaissance Office)** – Managed **intelligence programs, financial modeling, and technology validation**.
 
 ---
