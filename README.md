@@ -1,3 +1,3 @@
-# Tristan Snyder's Python Projects Repository
+### Tristan Snyder's Python Projects Repository
 
 
